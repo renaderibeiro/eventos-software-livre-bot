@@ -1,2 +1,2 @@
-# events-software-livre-bot
-A bot to help catalog Free Software events and related to NuSoL (Extension Project)
+# eventos-software-livre-bot
+Um bot para auxílio no catálogo de eventos de Software Livre e afins pelo Núcleo de Difusão e Desenvolvimento de Software Livre (NuSoL - UFBA)
